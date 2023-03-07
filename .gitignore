@@ -1,0 +1,6 @@
+g-research-crypto-forecasting/
+*.html
+*.csv
+graph/*
+.DS_Store
+.vscode/
